@@ -1,14 +1,6 @@
 # nextdoor-store-api
 
-generated using Luminus version "3.57"
-
-FIXME
-
-## Prerequisites
-
-You will need [Leiningen][1] 2.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
+A simple api for CloudFront to serve a static website hosted on Amazon S3.
 
 ## Running
 
