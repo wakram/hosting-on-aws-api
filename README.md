@@ -1,4 +1,4 @@
-# nextdoor-store-api
+# hosting-on-aws-api
 
 A simple api for CloudFront to serve a static website hosted on Amazon S3.
 
